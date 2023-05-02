@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\Source\\UnrealCreations_Game\\MyCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\.vscode\\compileCommands_UnrealCreations_Game\\UnrealCreations_Game.255.rsp"
+		],
+		"directory": "C:\\Trenton's Programming Files\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\Source\\UnrealCreations_Game\\MyCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\.vscode\\compileCommands_UnrealCreations_Game\\UnrealCreations_Game.255.rsp"
+		],
+		"directory": "C:\\Trenton's Programming Files\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\Source\\UnrealCreations_Game\\UnrealCreations_Game.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\.vscode\\compileCommands_UnrealCreations_Game\\UnrealCreations_Game.255.rsp"
+		],
+		"directory": "C:\\Trenton's Programming Files\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\Source\\UnrealCreations_Game\\UnrealCreations_Game.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\.vscode\\compileCommands_UnrealCreations_Game\\UnrealCreations_Game.255.rsp"
+		],
+		"directory": "C:\\Trenton's Programming Files\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\Source\\UnrealCreations_Game\\UnrealCreations_Game.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\.vscode\\compileCommands_UnrealCreations_Game\\UnrealCreations_Game.255.rsp"
+		],
+		"directory": "C:\\Trenton's Programming Files\\UE_5.1\\Engine\\Source"
+	}
+]

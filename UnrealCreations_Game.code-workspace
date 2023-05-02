@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "UnrealCreations_Game",
+			"path": "."
+		},
+		{
+			"name": "UE5",
+			"path": "C:\\Trenton's Programming Files\\UE_5.1"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}

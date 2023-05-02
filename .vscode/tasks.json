@@ -1,0 +1,437 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "UnrealCreations_Game Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_Game Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_Game Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_Game Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Test Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Test",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Test Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Test",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_Game Win64 Test Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Test Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Test",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Shipping Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Shipping Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_Game Win64 Shipping Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_Game Win64 Shipping Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_Game",
+				"Win64",
+				"Shipping",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Debug Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Debug Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_GameEditor Win64 Debug Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Debug Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Debug",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 DebugGame Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 DebugGame Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_GameEditor Win64 DebugGame Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 DebugGame Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"DebugGame",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Development Build",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Development Rebuild",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Build.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"dependsOn": [
+				"UnrealCreations_GameEditor Win64 Development Clean"
+			],
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		},
+		{
+			"label": "UnrealCreations_GameEditor Win64 Development Clean",
+			"group": "build",
+			"command": "Engine\\Build\\BatchFiles\\Clean.bat",
+			"args": [
+				"UnrealCreations_GameEditor",
+				"Win64",
+				"Development",
+				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"-waitmutex"
+			],
+			"problemMatcher": "$msCompile",
+			"type": "shell",
+			"options": {
+				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+			}
+		}
+	]
+}
