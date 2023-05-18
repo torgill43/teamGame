@@ -9,13 +9,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Test",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Test",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Test",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"UnrealCreations_Game",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"UnrealCreations_GameEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\Trenton Ringger\\Documents\\Unreal Projects\\UnrealCreations_Game\\UnrealCreations_Game.uproject",
+				"C:\\Users\\Spiderling\\Documents\\Programming Stuff\\CSE310\\teamGame\\UnrealCreations_Game.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Trenton's Programming Files\\UE_5.1"
+				"cwd": "C:\\Epic\\UE_5.1"
 			}
 		}
 	]

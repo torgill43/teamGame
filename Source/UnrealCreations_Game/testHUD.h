@@ -7,11 +7,12 @@
 #include "testHUD.generated.h"
 
 /**
- * 
+ * A test HUD to display on the screen
  */
 UCLASS()
 class UNREALCREATIONS_GAME_API AtestHUD : public AHUD
-{
+{	
+
 	GENERATED_BODY()
 	
 };
