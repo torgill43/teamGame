@@ -1,6 +1,6 @@
 # Overview
 
-In this repository, we are attempting to create a platformer game in a relatively small amount of time. Doing this will improve our skills in project management and will provide an opportunity to learn how to use Unreal Engine. 
+In this repository, we are attempting to create a platformer game in three months. Doing this will improve our skills in project management and will provide an opportunity to learn how to use Unreal Engine. 
 
 {Provide a description of your software}
 
@@ -18,5 +18,5 @@ The languages used in this software are C#, C++, and C.
 
 # Useful Websites
 
-* [Unreal Engine 5.2 Documentation: Destruction Quick Start](https://docs.unrealengine.com/5.2/en-US/destruction-quick-start/)
+* [Unreal Engine 5.2 Documentation](https://docs.unrealengine.com/5.2/en-US/)
 * [Web Site Name](http://url.link.goes.here)
