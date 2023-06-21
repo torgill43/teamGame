@@ -1,23 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this repository, we are attempting to create a platformer game in three months. Doing this will improve our skills in project management and will provide an opportunity to learn how to use Unreal Engine. 
 
 {Provide a description of your software}
 
 {Describe your purpose for creating this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+Below is a link to our YouTube demonstration.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+We are using Unreal Engine to develop the software, along with Visual Studio and X code.
 
-{Describe the programming language that you used}
+The languages used in this software are C#, C++, and C.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [YouTube tutorial on fracture destruction](https://youtu.be/aTfiLOF_kPk)
+* [Unreal Engine 5.2 Documentation](https://docs.unrealengine.com/5.2/en-US/)
+* [Web Site Name](http://url.link.goes.here)
