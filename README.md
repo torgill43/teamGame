@@ -18,6 +18,6 @@ The languages used in this software are C#, C++, and C.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Unreal Engine 5.2 Documentation](https://docs.unrealengine.com/5.2/en-US/)
+* [Web Site Name](http://url.link.goes.here)
 * [YouTube tutorial on fracture destruction](https://youtu.be/aTfiLOF_kPk)
