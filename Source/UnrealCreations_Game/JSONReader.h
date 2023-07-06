@@ -20,7 +20,7 @@ struct Score {
  * The JSON Reader class, will read and write data to  a JSON file
  */
 UCLASS(Blueprintable)
-class UNREALCREATIONS_GAME_API JSONReader
+class UNREALCREATIONS_GAME_API JSONReader : public UOBJECT()
 {
 GENERATED_BODY()
 private:
