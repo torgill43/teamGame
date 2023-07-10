@@ -1,17 +1,14 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+#include "MyBPLibrary.h"
 
-#include "JSONReader.h"
-
-JSONReader::JSONReader()
-{
-   // Code to run when JSONReader is created
-   readFile();
+bool UMyBPLibrary::amIHere() {
+#if WITH_EDITOR
+   return true;
+#else
+   return false;
+#endif
 }
 
-JSONReader::~JSONReader()
-{}
-
-void JSONReader::readFile()
+void UMyBPLibrary::readFile()
 {
    ifstream file(filename);
    Json::Reader reader;
@@ -19,7 +16,7 @@ void JSONReader::readFile()
    file.close();
 }
 
-void JSONReader::extractScores()
+void UMyBPLibrary::extractScores()
 {
    Json::Value highScores = data["highScores"];
    for (const auto& entry : highScores) {
@@ -30,7 +27,7 @@ void JSONReader::extractScores()
    }
 }
 
-void JSONReader::updateScores(string name, int score)
+void UMyBPLibrary::updateScores(string name, int score)
 {
    Score newScore;
    newScore.name = name;
@@ -52,7 +49,7 @@ void JSONReader::updateScores(string name, int score)
    }
 }
 
-void JSONReader::printScores() const
+void UMyBPLibrary::printScores()
 {
    cout << "High Scores:" << endl;
    for (int i = 0; i < scores.size(); i++) {
@@ -60,7 +57,7 @@ void JSONReader::printScores() const
    }
 }
 
-void JSONReader::saveScores()
+void UMyBPLibrary::saveScores()
 {
    // Create a JSON array and populate it with struct data
    Json::Value root;
@@ -92,7 +89,7 @@ void JSONReader::saveScores()
    cout << "JSON data written to" << filename << endl;
 }
 
-string JSONReader::getName(int rank)
+string UMyBPLibrary::getName(int rank)
 {
    if (rank >= 0 && rank < scores.size())
       return scores[rank].name;
@@ -100,11 +97,10 @@ string JSONReader::getName(int rank)
       return "Unknown";
 }
 
-int JSONReader::getScore(int rank)
+int UMyBPLibrary::getScore(int rank)
 {
    if (rank >= 0 && rank < scores.size())
       return scores[rank].score;
    else
       return 0;
-
 }
