@@ -10,6 +10,7 @@ bool UMyBPLibrary::amIHere() {
 
 void UMyBPLibrary::readFile()
 {
+   filename = "scores.json";
    ifstream file(filename);
    Json::Reader reader;
    reader.parse(file, data);
@@ -27,7 +28,7 @@ void UMyBPLibrary::extractScores()
    }
 }
 
-void UMyBPLibrary::updateScores(string name, int score)
+/*void UMyBPLibrary::updateScores(string name, int score)
 {
    Score newScore;
    newScore.name = name;
@@ -47,7 +48,30 @@ void UMyBPLibrary::updateScores(string name, int score)
       scores.insert(scores.begin() + insertIndex, newScore);
       scores.pop_back();
    }
+}*/
+
+void UMyBPLibrary::updateScoresF(FString name, int score)
+{
+   ScoreF newScore;
+   newScore.name = name;
+   newScore.score = score;
+
+   // Iterate through scores vector and find where score needs to be inserted
+   int insertIndex = 99;
+
+   for (int i = scoreFs.size() - 1; i >= 0; i--) {
+      if (score > scoreFs[i].score)
+         insertIndex = i;
+   }
+
+   if (insertIndex < 9)
+   {
+      // Insert high score and associated name
+      scoreFs.insert(scoreFs.begin() + insertIndex, newScore);
+      scoreFs.pop_back();
+   }
 }
+
 
 void UMyBPLibrary::printScores()
 {
@@ -89,10 +113,18 @@ void UMyBPLibrary::saveScores()
    cout << "JSON data written to" << filename << endl;
 }
 
-string UMyBPLibrary::getName(int rank)
+/*string UMyBPLibrary::getName(int rank)
 {
    if (rank >= 0 && rank < scores.size())
       return scores[rank].name;
+   else
+      return "Unknown";
+}*/
+
+FString UMyBPLibrary::getNameF(int rank)
+{
+   if (rank >= 0 && rank < scores.size())
+      return scoreFs[rank].name;
    else
       return "Unknown";
 }
