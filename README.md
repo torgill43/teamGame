@@ -1,18 +1,21 @@
 # Overview
+As a team, we created a side-scrolling platformer game in three months. Doing this helped improve our skills in project management and provided an opportunity to learn how to use Unreal Engine. This project allowed us to collaborate as a team of 6 developers to learn how to effectively communicate and accomplish individual aspects of the project. 
 
-In this repository, we are attempting to create a platformer game in three months. Doing this will improve our skills in project management and will provide an opportunity to learn how to use Unreal Engine. This project is also an opporuntiy for us to collaborate in a team of 6 developers to learn how to effectively communicate and accomplish individual aspects of our project. 
+Game description: 
+The main player navigates on 2D plane and moves on the y-axis with the goal of destroying enemies along the way. The enemies are destroyed when the player collides with them.
 
-We created a side scroller game built with Unreal Engine. The main player navigates on 2D plane and moves on the y-axis with the goal of destroying enemies along the way. When enemies collide with the player they are destroyed. 
+Below is a YouTube link to our project walkthrough and another for a demonstration of the gameplay:
+* [Team Presentation Video](https://youtu.be/uRX4b4nc9HI)
+* [Gameplay Walkthrough Video](https://www.youtube.com/watch?v=dRg2YP3TPY0)
 
-Below is a link to our YouTube demonstration.
-
-[Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
+* Unreal Engine
+* Visual Studio
+* X code
 
-We are using Unreal Engine to develop the software, along with Visual Studio and X code.
-
-The languages used in this software are C#, C++, and C.
+Languages used:
+* C# and C++
 
 # Useful Websites
 
