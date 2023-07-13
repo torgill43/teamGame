@@ -17,15 +17,14 @@ The languages used in this software are C#, C++, and C.
 # Useful Websites
 
 * [Unreal Engine 5.2 Documentation](https://docs.unrealengine.com/5.2/en-US/)
-* [Web Site Name](http://url.link.goes.here)
 * [YouTube tutorial on fracture destruction](https://youtu.be/aTfiLOF_kPk)
-* [jsoncpp Documentation](https://github.com/nlohmann/json)
+* [Documentation for jsoncpp](https://github.com/nlohmann/json)
 * [Moving platforms](https://www.youtube.com/watch?v=usZmddoDMak)
 * [Character following character movement](https://couchlearn.com/ai-following-the-player-in-unreal-engine-5/)
 * [How to fracture a character into pieces](https://forums.unrealengine.com/t/how-to-fracture-a-character-into-pieces/274192/2 )
 
 # Images of Demo Project
-* [images](./Screenshots)
+* [Images](./Screenshots)
   
 # Roles
 * Trenton - enviorment design/ source control integration 
