@@ -22,3 +22,13 @@ The languages used in this software are C#, C++, and C.
 * [Web Site Name](http://url.link.goes.here)
 * [YouTube tutorial on fracture destruction](https://youtu.be/aTfiLOF_kPk)
 * [jsoncpp Documentation](https://github.com/nlohmann/json)
+* [Moving platforms](https://www.youtube.com/watch?v=usZmddoDMak)
+* [Character following character movement](https://couchlearn.com/ai-following-the-player-in-unreal-engine-5/)
+
+# Roles
+* Trenton
+* Ashley
+* Sierra
+* Tim
+* Chad
+* Elena 
